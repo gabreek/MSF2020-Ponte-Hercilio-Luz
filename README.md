@@ -8,7 +8,7 @@ Criado por Gabriel Negrisiolo Righi modelos e texturas extraidos do Google Maps,
 * Instalação: 
 Extrair na pasta Community
 
-Download: [Em Breve!]
+Download: [Clique Aqui!](https://github.com/gabreek/MSF2020-Ponte-Hercilio-Luz/releases/download/1.0/MSFS2020.-.Ponte.Hercilio.Luz.Florianopolis.rar)
 
 ### Doações
 Se quiser me incentivar a continuar convertendo mais cenários e no futuro localidades inteiras, pode me pagar um café!
@@ -23,3 +23,5 @@ Se quiser me incentivar a continuar convertendo mais cenários e no futuro local
 ![Screenshot](/ponte4.png)
 ![Screenshot](/ponte5.png)
 ![Screenshot](/ponte6.png)
+![Screenshot](/p2.png)
+![Screenshot](/p3.png)
