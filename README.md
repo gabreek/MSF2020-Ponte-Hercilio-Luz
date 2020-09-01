@@ -18,8 +18,8 @@ Se quiser me incentivar a continuar convertendo mais cenários e no futuro local
 
 ## Imagens
 ![Screenshot](/ponte1.png)
-![Screenshot](/ponte%2.png)
-![Screenshot](/ponte%3.png)
+![Screenshot](/ponte%202.png)
+![Screenshot](/ponte%203.png)
 ![Screenshot](/ponte4.png)
 ![Screenshot](/ponte5.png)
 ![Screenshot](/ponte6.png)
